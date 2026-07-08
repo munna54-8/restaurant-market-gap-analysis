@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kochi Restaurant Market: Cuisine Demand-Gap Analysis</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#F3F5F9; --card:#FFFFFF; --border:#E1E5EC;
+    --ink:#1B2333; --muted:#5B6478;
+    --teal:#146C64; --teal-soft:#DCEEEC;
+    --amber:#C6742A; --amber-soft:#F6E7D8;
+    --coral:#B4503F; --coral-soft:#F3E0DC;
+    --slate:#3D4B63;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif; line-height:1.5;
+    padding:40px 24px 80px;
+  }
+  .wrap{max-width:1080px; margin:0 auto;}
+  .eyebrow{
+    font-size:12px; font-weight:600; letter-spacing:0.12em; text-transform:uppercase;
+    color:var(--teal); margin-bottom:10px;
+  }
+  h1{
+    font-family:'Fraunces',serif; font-weight:600; font-size:clamp(26px,4vw,40px);
+    margin:0 0 10px; letter-spacing:-0.01em;
+  }
+  .subtitle{color:var(--muted); font-size:15px; max-width:680px; margin:0 0 36px;}
+
+  .hero{
+    background:linear-gradient(135deg,var(--ink) 0%, #2A3A52 100%);
+    border-radius:16px; padding:32px 36px; color:#fff; margin-bottom:28px;
+    display:flex; flex-wrap:wrap; gap:32px; align-items:center; justify-content:space-between;
+  }
+  .hero-text{max-width:420px;}
+  .hero-label{font-size:12px; letter-spacing:0.1em; text-transform:uppercase; color:#9FB0C8; margin-bottom:8px;}
+  .hero-title{font-family:'Fraunces',serif; font-size:21px; font-weight:600; line-height:1.35;}
+  .hero-stats{display:flex; gap:28px;}
+  .hero-stat{text-align:center;}
+  .hero-stat .num{font-family:'Fraunces',serif; font-size:38px; font-weight:700; line-height:1;}
+  .hero-stat.up .num{color:#5FBFAE;}
+  .hero-stat.down .num{color:#E08A78;}
+  .hero-stat .lbl{font-size:12px; color:#B7C3D6; margin-top:6px;}
+
+  .kpi-row{display:grid; grid-template-columns:repeat(4,1fr); gap:16px; margin-bottom:28px;}
+  .kpi{background:var(--card); border:1px solid var(--border); border-radius:12px; padding:20px 22px;}
+  .kpi .val{font-family:'Fraunces',serif; font-size:26px; font-weight:600; color:var(--ink);}
+  .kpi .lbl{font-size:12.5px; color:var(--muted); margin-top:4px;}
+
+  .grid{display:grid; grid-template-columns:1.1fr 0.9fr; gap:20px; margin-bottom:20px;}
+  .card{background:var(--card); border:1px solid var(--border); border-radius:12px; padding:24px;}
+  .card h2{font-size:15px; font-weight:600; margin:0 0 4px;}
+  .card .note{font-size:12.5px; color:var(--muted); margin-bottom:16px;}
+  .chart-box{position:relative; height:320px;}
+  .full{grid-column:1 / -1;}
+
+  .findings{list-style:none; padding:0; margin:0;}
+  .findings li{display:flex; gap:12px; padding:12px 0; border-bottom:1px solid var(--border); font-size:13.5px;}
+  .findings li:last-child{border-bottom:none;}
+  .findings .tag{
+    flex-shrink:0; font-size:10.5px; font-weight:700; letter-spacing:0.04em; text-transform:uppercase;
+    color:var(--teal); background:var(--teal-soft); padding:3px 8px; border-radius:6px; height:fit-content;
+  }
+
+  .caveat{
+    background:var(--amber-soft); border:1px solid #E8C89A; border-radius:10px; padding:16px 18px;
+    font-size:13px; color:#7A4E1E; margin-bottom:28px;
+  }
+  .caveat b{display:block; margin-bottom:4px; font-size:12px; text-transform:uppercase; letter-spacing:0.04em;}
+
+  footer{
+    margin-top:28px; padding-top:20px; border-top:1px solid var(--border);
+    font-size:12.5px; color:var(--muted); display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px;
+  }
+
+  @media (max-width:760px){
+    .grid{grid-template-columns:1fr;}
+    .kpi-row{grid-template-columns:repeat(2,1fr);}
+    .hero{flex-direction:column; align-items:flex-start;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow"></div>
+  <h1>Kochi Restaurant Market: Cuisine Demand-Gap Analysis</h1>
+  <p class="subtitle">Which cuisines are underserved relative to demand among Kochi's most prominent restaurants — and which are the most crowded? Analysis of 90 listings scraped across 10 Kochi localities on Zomato, deduplicated to 33 unique restaurants.</p>
+
+  <div class="caveat">
+    <b>A note on scope</b>
+    63% of the initially scraped listings (57 of 90) turned out to be duplicates — the same restaurants appearing under multiple "nearby" localities, since Zomato's per-area listings draw from a shared citywide pool rather than fully distinct rankings. After deduplication, this analysis covers Kochi's 33 most prominent, most-reviewed restaurants — a meaningful but not exhaustive slice of the city's full restaurant market.
+  </div>
+
+  <div class="hero">
+    <div class="hero-text">
+      <div class="hero-label">Headline finding</div>
+      <div class="hero-title">Burger and Coffee concepts are underserved relative to demand — Kerala and South Indian, the most common cuisines, are the most oversaturated.</div>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat up">
+        <div class="num">+73</div>
+        <div class="lbl">Burger gap score</div>
+      </div>
+      <div class="hero-stat down">
+        <div class="num">-73</div>
+        <div class="lbl">Kerala gap score</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="val">33</div><div class="lbl">Unique restaurants</div></div>
+    <div class="kpi"><div class="val">10</div><div class="lbl">Localities scraped</div></div>
+    <div class="kpi"><div class="val">63%</div><div class="lbl">Duplicate rate found</div></div>
+    <div class="kpi"><div class="val">-0.04</div><div class="lbl">Reviews-rating correlation</div></div>
+  </div>
+
+  <div class="grid">
+    <div class="card full">
+      <h2>Cuisine gap score</h2>
+      <div class="note">Positive = demand outpaces supply (opportunity) &middot; Negative = oversaturated relative to demand</div>
+      <div class="chart-box"><canvas id="gapChart"></canvas></div>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Top 10 highest-demand restaurants</h2>
+      <div class="note">Ranked by demand-intensity index (rating &times; log of review volume)</div>
+      <div class="chart-box"><canvas id="topChart"></canvas></div>
+    </div>
+    <div class="card">
+      <h2>Key findings</h2>
+      <ul class="findings">
+        <li><span class="tag">Gap</span> Burger (+73.1) and Coffee (+61.5) show the strongest demand-to-supply imbalance — real whitespace for a new concept.</li>
+        <li><span class="tag">Saturation</span> Kerala (-73.1) and South Indian (-57.7) are the most common cuisines in the dataset, but score lowest on demand-per-restaurant — the "safe" default is also the most crowded.</li>
+        <li><span class="tag">Data quality</span> 63% of scraped listings were duplicates across localities — itself a finding about how Zomato's recommendation widget works, not just a cleaning step.</li>
+        <li><span class="tag">Popularity &ne; quality</span> Review count and rating are essentially uncorrelated (-0.039) — a heavily-reviewed restaurant is no more likely to be highly rated than a lightly-reviewed one.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card full">
+    <h2>Recommendation</h2>
+    <p style="font-size:13.5px; color:var(--slate); margin:0;">Among Kochi's most prominent restaurants, Burger and Coffee-led concepts show meaningfully more demand relative to how many currently exist — genuine whitespace for a new entrant. A new Kerala or South Indian restaurant, by contrast, would be entering the most crowded and most commoditized segment of the market, where standing out will be harder regardless of execution quality.</p>
+  </div>
+
+  <footer>
+    <span>Data: Zomato structured listings (JSON-LD), collected via Python across 10 Kochi localities</span>
+    <span>Tools: Python &middot; Pandas &middot; SQLite &middot; Chart.js</span>
+  </footer>
+
+</div>
+
+<script>
+Chart.defaults.font.family = "'Inter', sans-serif";
+Chart.defaults.color = '#5B6478';
+
+const gapLabels = ['Burger','Coffee','Asian','Cafe','Fast Food','Italian','Continental','Seafood','North Indian','Chinese','South Indian','Desserts','Kerala'];
+const gapValues = [73.1,61.5,42.3,34.6,34.6,26.9,15.4,3.8,-38.5,-57.7,-57.7,-65.4,-73.1];
+
+new Chart(document.getElementById('gapChart'), {
+  type: 'bar',
+  data: {
+    labels: gapLabels,
+    datasets: [{
+      data: gapValues,
+      backgroundColor: gapValues.map(v => v >= 0 ? '#146C64' : '#B4503F'),
+      borderRadius: 4,
+      barThickness: 18
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { color: '#E1E5EC' }, ticks: { font: { size: 11 } } },
+      y: { grid: { display: false }, ticks: { font: { size: 12 } } }
+    }
+  }
+});
+
+new Chart(document.getElementById('topChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Paragon','Cafe 17','Nasi And Mee','Natural Ice Cream','Kubaba','Chopstix Signature','Grand Pavillion','French Toast','Cocoa Tree','KFC'],
+    datasets: [{
+      data: [48.48,40.29,39.58,39.42,38.42,36.04,35.63,34.96,34.91,34.66],
+      backgroundColor: '#146C64',
+      borderRadius: 4,
+      barThickness: 14
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { color: '#E1E5EC' }, ticks: { font: { size: 11 } } },
+      y: { grid: { display: false }, ticks: { font: { size: 11 } } }
+    }
+  }
+});
+</script>
+</body>
+</html>
