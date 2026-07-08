@@ -1,37 +1,91 @@
 name,locality,rating,review_count,cuisine,address,price_range,url,review_count_num
-Elevate Resto - Travancore Court,kochi,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
-Fort House Restaurant,kochi,4.5,601,"Seafood, Kerala, Fast Food","2/6-A, Calvathy Road, Fort Kochi, Kochi",,/kochi/fort-house-restaurant-fort-kochi/info,601.0
-Latest Recipe - Le Méridien Kochi,kochi,4.4,"2,550","North Indian, Continental, Chinese","Le Méridien, Nettoor, Marad, Kochi",,/kochi/latest-recipe-le-méridien-kochi-marad/info,2550.0
-Roastown,kochi,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
-Yaacht Kitchen,kochi,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
-Space 9,kochi,4.3,51,"South Indian, North Indian, Chinese","DG/2, Poonithura, Ernakulam, Marad, Kochi",,/kochi/space-9-marad/info,51.0
-Cheenavala,kochi,4.1,"2,152","South Indian, Kerala, Seafood","National Highway Byepass, Ernakulam, Edappally, Kochi",,/kochi/cheenavala-edappally/info,2152.0
-Kubaba,kochi,4.2,"9,398","Biryani, Mandi, Arabic","1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",,/kochi/kubaba-edappally/info,9398.0
-Kyra,kochi,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
-Paragon Restaurant,Kozhikode,4.4,13.1K,"North Indian, Biryani, Seafood","B 62/1442, Grand Building, North Circle, Kannur Road, Vellayil, Kozhikode",,/kozhikode/paragon-restaurant-vellayil/order,13100.0
-Pure South,Kozhikode,4.0,174,South Indian,"61/6384, Hospitality Private Limited, Khadeeja Building, GH Road, Palayam, Kozhikode",,/kozhikode/pure-south-2-palayam/order,174.0
-equiTea.,Kozhikode,4.0,"5,824","Street Food, Tea, Momos","Nadakkavu, Bilathikkulam, Kozhikode",,/kozhikode/equitea-bilathikkulam/order,5824.0
-Hotel Sagar-Old Sagar,Kozhikode,3.7,20.5K,"Biryani, South Indian, Kerala","5/3306 & 5/3307, Mavoor Road, Kuttichira, Kozhikode",,/kozhikode/hotel-sagar-old-sagar-kuttichira/order,20500.0
-Salkara Restaurant by Paragon,Kozhikode,4.3,"3,687","Kerala, Arabic, Chinese","3/101 C9, 65/373 West Nadakkavu, Kannur Road, Vellayil, Kozhikode",,/kozhikode/salkara-restaurant-by-paragon-vellayil/order,3687.0
-TopForm Restaurant,Kozhikode,4.2,22K,"Biryani, Kerala, South Indian","17/63, Golden Plaza Building, Mavoor Road, Head Post Office, Kozhikode South Circle, Kuttichira, Kozhikode",,/kozhikode/topform-restaurant-kuttichira/order,22000.0
-Hotel Ambika,Kozhikode,4.4,"7,632","Kerala, South Indian, North Indian","64/40 A, North Cirlce, East Nadakkavu, Eranjipalam, Bilathikkulam, Kozhikode",,/kozhikode/hotel-ambika-1-bilathikkulam/order,7632.0
-Subway,Kozhikode,3.9,148,"Healthy Food, Sandwich, Fast Food","61/10519, Shop 101, Ground Floor, The Focus Mall, Rajaji Road, Palayam, Kozhikode",,/kozhikode/subway-3-palayam/order,148.0
-Kanjipura Restaurant,Kozhikode,3.8,"4,014","North Indian, South Indian, Kerala","29/2582, 2583, Kanjippura, Thondayad Bypass Road, Ummalathoor, Kozhikode",,/kozhikode/kanjipura-restaurant-ummalathoor/order,4014.0
-Diamond Dine Family Restaurant,kasaragod,4.1,438,"South Indian, North Indian","6/980 - 1, 2, 8, NH Road, Kasaragod Locality, Kasaragod",,/kasaragod/diamond-dine-family-restaurant-kasaragod-locality/order,438.0
-Golden Bakery,kasaragod,4.2,175,"North Indian, Arabic, Chinese","Door 22/147C/C1/C2/C3, Theruvath, Thalangara, Kasaragod Locality, Kasaragod",,/kasaragod/golden-bakery-2-kasaragod-locality/order,175.0
-Dar Al Madhooth,kasaragod,4.0,21,"Mandi, Biryani, Juices","Door KMC 8-203A, Room 1, Zyqo Food Court, Block F, Anangoor, Kasaragod Locality, Kasaragod",,/kasaragod/dar-al-madhooth-kasaragod-locality/order,21.0
-AFC,kasaragod,3.6,383,"Burger, Wraps, Fast Food","Kasaragod-Naimarmoola-Perumbala, Kadavu Road, Kasaragod Locality, Kasaragod",,/kasaragod/afc-kasaragod-locality/order,383.0
-Parche,kasaragod,4.5,126,"Momos, Chinese, Cafe","OPP KRISHNA HARDWARE M G ROAD KASARAGOD, Kasaragod Circle 'F' Block, Kasaragod, Kerala - 671121, kasaragod, Kerala",,/kasaragod/parche-kasaragod-locality/order,126.0
-Chicking,kasaragod,3.7,709,"Fast Food, Biryani, South Indian","20/71, B 16, P K Complex, Nymar Moola, Kasaragod Locality, Kasaragod",,/kasaragod/chicking-kasaragod-locality/order,709.0
-Sagar Hotel,kasaragod,3.0,61,"Biryani, Shake, Sandwich","Door KMC 12/225 D, D1, D2, D3 Crystal Arcade, Circle F, MG Road, Kasaragod Locality, Kasaragod",,/kasaragod/sagar-hotel-kasaragod-locality/order,61.0
-The Muse Cafe,kasaragod,4.3,62,"Sandwich, Juices, Shake","18-285/A12, F Block, MG Road, Kasaragod Locality, Kasaragod",,/kasaragod/the-muse-cafe-kasaragod-locality/order,62.0
-Ocean Sea Food Restaurant,kasaragod,3.9,59,"Seafood, South Indian, North Indian","Door KMC 6/1387, F Block, Karanthakkad, Ashwini Nagar, Kasaragod Locality, Kasaragod",,/kasaragod/ocean-sea-food-restaurant-kasaragod-locality/order,59.0
-McDonald's,thiruvanantapuram,4.0,"7,714","Burger, Fast Food, Cafe","TC 15/4558/1/3, Ground And First Floor, Johns Towers, Kesavadasapuram, Trivandrum",,/trivandrum/mcdonalds-kesavadasapuram/order,7714.0
-Mothers Veg Plaza,thiruvanantapuram,4.3,49.9K,"South Indian, Kerala, North Indian","Door 14/1981, Bakery Junction, Thiruvananthapuram Circle, Palayam, Trivandrum",,/trivandrum/mothers-veg-plaza-palayam/order,49900.0
-Hotel Chinnus,thiruvanantapuram,4.1,24.2K,"Biryani, Chinese, Kerala","T C 3/1647-1, 2, 3, Pattom, Kesavadasapuram, Trivandrum",,/trivandrum/hotel-chinnus-kesavadasapuram/order,24200.0
-North Bites,thiruvanantapuram,3.9,"3,742","North Indian, Beverages, Street Food","TC 14/3680, Ground Floor, Pattom, Vattiyoorkavu Circle, Thiruvananthapuram, Kesavadasapuram, Trivandrum",,/trivandrum/north-bites-1-kesavadasapuram/order,3742.0
-Hotel Aruna,thiruvanantapuram,4.3,31.5K,"South Indian, North Indian, Chinese","TC 14/2345, MG Road, Palayam, Trivandrum",,/trivandrum/hotel-aruna-palayam/order,31500.0
-Jai Sitha Sweets,thiruvanantapuram,4.5,"8,451","Mithai, Street Food, Desserts","TC 23/738/1, Single Street, Valiyasala, Thycaud, Trivandrum",,/trivandrum/jai-sitha-sweets-thycaud/order,8451.0
-KFC,thiruvanantapuram,4.2,11.4K,"Burger, Fast Food, Rolls","Ground Floor, Survey 3572/3, Near Brand Factory, Keston Road, Kowdiar, Thiruvananthapuram Circle, Nandavanam, Trivandrum",,/trivandrum/kfc-nandavanam/order,11400.0
-Zam Zam YMR,thiruvanantapuram,4.3,52.7K,"Arabic, Biryani, Chinese","TC 25/1624-2, YMR Junction, Nandancode, Kowdiar, Thiruvananthapuram Circle, Ambalamukku, Trivandrum",,/trivandrum/zam-zam-ymr-ambalamukku/order,52700.0
-Imperial Kitchen,thiruvanantapuram,4.0,11.2K,"Biryani, Chinese, South Indian","TC 17/2624-3, Vattiyoorkavu Circle, Pattom, Near Cosmopolitan Hospital, Kesavadasapuram, Trivandrum",,/trivandrum/imperial-kitchen-kesavadasapuram/order,11200.0
+Elevate Resto - Travancore Court,MG Road,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Fort House Restaurant,MG Road,4.5,601,"Seafood, Kerala, Fast Food","2/6-A, Calvathy Road, Fort Kochi, Kochi",,/kochi/fort-house-restaurant-fort-kochi/info,601.0
+Yaacht Kitchen,MG Road,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Kyra,MG Road,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,MG Road,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Deli KC - Holiday Inn Cochin,MG Road,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Hotel Seagull,MG Road,4.0,652,"Kerala, Seafood, Chinese","2-18, Calvathy Road, Fort Kochi, Kochi",,/kochi/hotel-seagull-fort-kochi/info,652.0
+Kashi Art Cafe,MG Road,4.5,"1,529","Cafe, Coffee, Fast Food","Burgher Street, Fort Kochi, Kochi",,/kochi/kashi-art-cafe-fort-kochi/info,1529.0
+Pandhal Café & Deli - David Hall,MG Road,4.3,745,"Cafe, Coffee, Italian","1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",,/kochi/pandhal-café-deli-david-hall-fort-kochi/info,745.0
+Roastown,Edappally,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
+Cheenavala,Edappally,4.1,"2,152","South Indian, Kerala, Seafood","National Highway Byepass, Ernakulam, Edappally, Kochi",,/kochi/cheenavala-edappally/info,2152.0
+Yaacht Kitchen,Edappally,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Kubaba,Edappally,4.2,"9,398","Biryani, Mandi, Arabic","1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",,/kochi/kubaba-edappally/info,9398.0
+Kyra,Edappally,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Paragon,Edappally,4.5,47.7K,"South Indian, Continental, North Indian","34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",,/kochi/paragon-edappally/info,47700.0
+Deli KC - Holiday Inn Cochin,Edappally,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Kochi Kitchen - Kochi Marriott Hotel,Edappally,4.3,"2,751","South Indian, Asian, North Indian","34/1111, Lulu International Shopping Mall, NH 47, Edappally, Kochi",,/kochi/kochi-kitchen-kochi-marriott-hotel-edappally/info,2751.0
+Cold Stone Creamery,Edappally,4.2,"1,693",Ice Cream,"Ground Floor, Lulu Hypermarket, Edappally, Kochi",,/kochi/cold-stone-creamery-edappally/info,1693.0
+Roastown,Kakkanad,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
+Cheenavala,Kakkanad,4.1,"2,152","South Indian, Kerala, Seafood","National Highway Byepass, Ernakulam, Edappally, Kochi",,/kochi/cheenavala-edappally/info,2152.0
+Yaacht Kitchen,Kakkanad,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Kubaba,Kakkanad,4.2,"9,398","Biryani, Mandi, Arabic","1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",,/kochi/kubaba-edappally/info,9398.0
+Kyra,Kakkanad,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Paragon,Kakkanad,4.5,47.7K,"South Indian, Continental, North Indian","34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",,/kochi/paragon-edappally/info,47700.0
+Deli KC - Holiday Inn Cochin,Kakkanad,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Kochi Kitchen - Kochi Marriott Hotel,Kakkanad,4.3,"2,751","South Indian, Asian, North Indian","34/1111, Lulu International Shopping Mall, NH 47, Edappally, Kochi",,/kochi/kochi-kitchen-kochi-marriott-hotel-edappally/info,2751.0
+Cold Stone Creamery,Kakkanad,4.2,"1,693",Ice Cream,"Ground Floor, Lulu Hypermarket, Edappally, Kochi",,/kochi/cold-stone-creamery-edappally/info,1693.0
+Elevate Resto - Travancore Court,Panampilly Nagar,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Latest Recipe - Le Méridien Kochi,Panampilly Nagar,4.4,"2,550","North Indian, Continental, Chinese","Le Méridien, Nettoor, Marad, Kochi",,/kochi/latest-recipe-le-méridien-kochi-marad/info,2550.0
+Yaacht Kitchen,Panampilly Nagar,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Space 9,Panampilly Nagar,4.3,51,"South Indian, North Indian, Chinese","DG/2, Poonithura, Ernakulam, Marad, Kochi",,/kochi/space-9-marad/info,51.0
+Kyra,Panampilly Nagar,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,Panampilly Nagar,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Deli KC - Holiday Inn Cochin,Panampilly Nagar,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Meen By Chef Pillai ,Panampilly Nagar,4.3,691,"Kerala, Seafood, Desserts","3rd Floor, Forum Mall, Nettoor, Marad, Kochi",,/kochi/meen-by-chef-pillai-marad/info,691.0
+Restaurant Chef Pillai,Panampilly Nagar,4.4,"1,589","South Indian, Kerala","16/263, NH 47, Bypass Kundannur Junction, Marad, Kochi",,/kochi/restaurant-chef-pillai-1-marad/info,1589.0
+Roastown,Kaloor,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
+Yaacht Kitchen,Kaloor,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Elevate Resto - Travancore Court,Kaloor,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Cheenavala,Kaloor,4.1,"2,152","South Indian, Kerala, Seafood","National Highway Byepass, Ernakulam, Edappally, Kochi",,/kochi/cheenavala-edappally/info,2152.0
+Kubaba,Kaloor,4.2,"9,398","Biryani, Mandi, Arabic","1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",,/kochi/kubaba-edappally/info,9398.0
+Kyra,Kaloor,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Paragon,Kaloor,4.5,47.7K,"South Indian, Continental, North Indian","34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",,/kochi/paragon-edappally/info,47700.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,Kaloor,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Deli KC - Holiday Inn Cochin,Kaloor,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Cassava - Kochi Marriott Hotel,Palarivattom,4.9,344,"Kerala, South Indian, Desserts","34/1111, Lulu International Shopping Mall, Edappally, Kochi",,/kochi/cassava-kochi-marriott-hotel-edappally/info,344.0
+Nasi And Mee,Palarivattom,4.6,"5,456","Asian, Japanese, Singaporean","66/6539, Ernakulam Circle, C A K Sheshadri Road, Near MG Road, Kochi",,/kochi/nasi-and-mee-mg-road/info,5456.0
+Chopstix Signature,Palarivattom,4.6,"2,528","Asian, Chinese, Japanese","7/528-E4, Seaport Airport Road, Kakkanad, Kochi",,/kochi/chopstix-signature-kakkanad/info,2528.0
+Cake Hut,Palarivattom,4.6,"1,246","Bakery, Desserts","Kathrikadavu, Kaloor-Kadavanthara Road, Kaloor, Kochi",,/kochi/cake-hut-kaloor/info,1246.0
+Natural Ice Cream,Palarivattom,4.7,"4,392",Ice Cream,"Laxman Chambers, South Over Bridge, Near Valanjambalam Devi Temple, Pallimukku, Kochi",,/kochi/natural-ice-cream-pallimukku/info,4392.0
+Roastown,Palarivattom,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
+French Toast,Palarivattom,4.5,"2,364","Sandwich, Beverages, Italian","8th Cross, Street B, Ambikapuram Road, Panampilly Nagar, Kochi",,/kochi/french-toast-panampilly-nagar/info,2364.0
+Hedge Cafe,Palarivattom,4.5,674,"Continental, Italian, Burger","66/3190B, 1st Floor, Bank House, Chittoor Road, Kochi",,/kochi/hedge-cafe-chittor-road/info,674.0
+Starbucks Coffee,Palarivattom,4.4,"2,611","Cafe, Coffee, Desserts","Cloud 9, Plot No 244, 9th Cross Road, Panampilly Nagar, Kochi",,/kochi/starbucks-coffee-panampilly-nagar/info,2611.0
+Fort House Restaurant,Fort Kochi,4.5,601,"Seafood, Kerala, Fast Food","2/6-A, Calvathy Road, Fort Kochi, Kochi",,/kochi/fort-house-restaurant-fort-kochi/info,601.0
+Elevate Resto - Travancore Court,Fort Kochi,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,Fort Kochi,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Hotel Seagull,Fort Kochi,4.0,652,"Kerala, Seafood, Chinese","2-18, Calvathy Road, Fort Kochi, Kochi",,/kochi/hotel-seagull-fort-kochi/info,652.0
+Kashi Art Cafe,Fort Kochi,4.5,"1,529","Cafe, Coffee, Fast Food","Burgher Street, Fort Kochi, Kochi",,/kochi/kashi-art-cafe-fort-kochi/info,1529.0
+Pandhal Café & Deli - David Hall,Fort Kochi,4.3,745,"Cafe, Coffee, Italian","1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",,/kochi/pandhal-café-deli-david-hall-fort-kochi/info,745.0
+Grand Pavillion By Grand Hotel,Fort Kochi,4.5,"2,747","North Indian, Kerala, Chinese","Opposite Malabar Gold, Woodlands Junction, MG Road, Kochi",,/kochi/grand-pavillion-by-grand-hotel-mg-road/info,2747.0
+KFC,Fort Kochi,3.7,11.7K,"Burger, Fast Food, Rolls","Centre Square Mall, MG Road, Kochi",,/kochi/kfc-mg-road/info,11700.0
+Brown's Restaurant,Fort Kochi,3.6,"8,052","North Indian, Chinese, South Indian","Victoria Towers, Banerji Road, Opposite Seematti, Kacheripady, Kochi",,/kochi/browns-restaurant-kacherippady/info,8052.0
+Cafe 17,Kadavanthra,4.5,"7,726","Cafe, Sandwich, Burger","CT Tower, R Madhavan Nair Road, Ravipuram, Kochi",,/kochi/cafe-17-ravipuram/info,7726.0
+Cocoa Tree,Kadavanthra,4.5,"2,340","Continental, European, Pizza","Building 56/2565-B, 2565-C, 1st floor, Manna Building, SBT Avenue, MIG Housing Society, Near ICICI Bank, Panampilly Nagar, Kochi",,/kochi/cocoa-tree-panampilly-nagar/info,2340.0
+Nasi And Mee,Kadavanthra,4.6,"5,456","Asian, Japanese, Singaporean","66/6539, Ernakulam Circle, C A K Sheshadri Road, Near MG Road, Kochi",,/kochi/nasi-and-mee-mg-road/info,5456.0
+Cake Hut,Kadavanthra,4.6,"1,246","Bakery, Desserts","Kathrikadavu, Kaloor-Kadavanthara Road, Kaloor, Kochi",,/kochi/cake-hut-kaloor/info,1246.0
+Natural Ice Cream,Kadavanthra,4.7,"4,392",Ice Cream,"Laxman Chambers, South Over Bridge, Near Valanjambalam Devi Temple, Pallimukku, Kochi",,/kochi/natural-ice-cream-pallimukku/info,4392.0
+Restaurant Chef Pillai,Kadavanthra,4.4,"1,589","South Indian, Kerala","16/263, NH 47, Bypass Kundannur Junction, Marad, Kochi",,/kochi/restaurant-chef-pillai-1-marad/info,1589.0
+French Toast,Kadavanthra,4.5,"2,364","Sandwich, Beverages, Italian","8th Cross, Street B, Ambikapuram Road, Panampilly Nagar, Kochi",,/kochi/french-toast-panampilly-nagar/info,2364.0
+Thai Soul - Grand Hyatt Kochi Bolgatty,Kadavanthra,4.7,344,"Thai, Asian, Desserts","Ground Level, Grand Hyatt Kochi, Mulavukad, Bolgatty, Vypin, Kochi",,/kochi/thai-soul-grand-hyatt-kochi-bolgatty-vypin/info,344.0
+Hedge Cafe,Kadavanthra,4.5,674,"Continental, Italian, Burger","66/3190B, 1st Floor, Bank House, Chittoor Road, Kochi",,/kochi/hedge-cafe-chittor-road/info,674.0
+Elevate Resto - Travancore Court,Marine Drive,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Fort House Restaurant,Marine Drive,4.5,601,"Seafood, Kerala, Fast Food","2/6-A, Calvathy Road, Fort Kochi, Kochi",,/kochi/fort-house-restaurant-fort-kochi/info,601.0
+Yaacht Kitchen,Marine Drive,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Kyra,Marine Drive,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,Marine Drive,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Deli KC - Holiday Inn Cochin,Marine Drive,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Hotel Seagull,Marine Drive,4.0,652,"Kerala, Seafood, Chinese","2-18, Calvathy Road, Fort Kochi, Kochi",,/kochi/hotel-seagull-fort-kochi/info,652.0
+Kashi Art Cafe,Marine Drive,4.5,"1,529","Cafe, Coffee, Fast Food","Burgher Street, Fort Kochi, Kochi",,/kochi/kashi-art-cafe-fort-kochi/info,1529.0
+Pandhal Café & Deli - David Hall,Marine Drive,4.3,745,"Cafe, Coffee, Italian","1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",,/kochi/pandhal-café-deli-david-hall-fort-kochi/info,745.0
+Elevate Resto - Travancore Court,Ernakulam City,4.3,50,"North Indian, South Indian, Chinese","Travancore Court, Warriam Road, Pallimukku, Kochi",,/kochi/elevate-resto-travancore-court-pallimukku/info,50.0
+Yaacht Kitchen,Ernakulam City,4.0,116,"Kerala, South Indian, Continental","Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",,/kochi/yaacht-kitchen-ernakulam-city/info,116.0
+Roastown,Ernakulam City,4.5,"1,089","Asian, Italian, Burger","37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",,/kochi/roastown-edappally/info,1089.0
+Cheenavala,Ernakulam City,4.1,"2,152","South Indian, Kerala, Seafood","National Highway Byepass, Ernakulam, Edappally, Kochi",,/kochi/cheenavala-edappally/info,2152.0
+Kubaba,Ernakulam City,4.2,"9,398","Biryani, Mandi, Arabic","1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",,/kochi/kubaba-edappally/info,9398.0
+Kyra,Ernakulam City,4.5,69,"Beverages, Mughlai, Desserts","33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",,/kochi/kyra-vennala/info,69.0
+Malabar Cafe - Grand Hyatt Kochi Bolgatty,Ernakulam City,3.9,900,"Kerala, North Indian, Desserts","Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",,/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info,900.0
+Deli KC - Holiday Inn Cochin,Ernakulam City,4.2,989,"Cafe, Continental, Fast Food","Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",,/kochi/deli-kc-holiday-inn-cochin-vennala/info,989.0
+Meen By Chef Pillai ,Ernakulam City,4.3,691,"Kerala, Seafood, Desserts","3rd Floor, Forum Mall, Nettoor, Marad, Kochi",,/kochi/meen-by-chef-pillai-marad/info,691.0

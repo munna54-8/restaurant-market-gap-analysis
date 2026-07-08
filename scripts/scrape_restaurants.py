@@ -8,13 +8,17 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
 }
 
-
 LOCALITIES = {
-    "kochi": "https://www.zomato.com/kochi/restaurants?category=1",
-    "Kozhikode": "https://www.zomato.com/kozhikode/restaurants",
-    "kasaragod": "https://www.zomato.com/kasaragod/restaurants",
-    "thiruvanantapuram": "https://www.zomato.com/trivandrum/kesavadasapuram-restaurants?category=1&delivery_subzone=18310&place_name=Tiruvan%C3%A1ntapuram%2C++Kerala%2C++India",
-
+    "MG Road": "https://www.zomato.com/kochi/mg-road-restaurants",
+    "Edappally": "https://www.zomato.com/kochi/edappally-restaurants",
+    "Kakkanad": "https://www.zomato.com/kochi/kakkanad-restaurants",
+    "Panampilly Nagar": "https://www.zomato.com/kochi/panampilly-nagar-restaurants",
+    "Kaloor": "https://www.zomato.com/kochi/kaloor-restaurants",
+    "Palarivattom": "https://www.zomato.com/kochi/best-palarivattom-restaurants",
+    "Fort Kochi": "https://www.zomato.com/kochi/fort-kochi-restaurants",
+    "Kadavanthra": "https://www.zomato.com/kochi/best-kadavanthra-restaurants",
+    "Marine Drive": "https://www.zomato.com/kochi/marine-drive-restaurants",
+    "Ernakulam City": "https://www.zomato.com/kochi/ernakulam-city-restaurants",
 }
 
 def fetch_locality(url, locality_name, delay=2):
@@ -61,9 +65,6 @@ def main():
     all_restaurants = []
 
     for locality, url in LOCALITIES.items():
-        if "PASTE_URL_HERE" in url:
-            print(f"Skipping {locality} — no URL filled in yet")
-            continue
         print(f"Fetching: {locality}")
         results = fetch_locality(url, locality)
         print(f"  Found {len(results)} restaurants")

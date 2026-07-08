@@ -1,7 +1,7 @@
 [
   {
     "name": "Elevate Resto - Travancore Court",
-    "locality": "kochi",
+    "locality": "MG Road",
     "rating": "4.3",
     "review_count": "50",
     "cuisine": "North Indian, South Indian, Chinese",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Fort House Restaurant",
-    "locality": "kochi",
+    "locality": "MG Road",
     "rating": "4.5",
     "review_count": "601",
     "cuisine": "Seafood, Kerala, Fast Food",
@@ -20,28 +20,8 @@
     "url": "/kochi/fort-house-restaurant-fort-kochi/info"
   },
   {
-    "name": "Latest Recipe - Le Méridien Kochi",
-    "locality": "kochi",
-    "rating": "4.4",
-    "review_count": "2,550",
-    "cuisine": "North Indian, Continental, Chinese",
-    "address": "Le Méridien, Nettoor, Marad, Kochi",
-    "price_range": null,
-    "url": "/kochi/latest-recipe-le-méridien-kochi-marad/info"
-  },
-  {
-    "name": "Roastown",
-    "locality": "kochi",
-    "rating": "4.5",
-    "review_count": "1,089",
-    "cuisine": "Asian, Italian, Burger",
-    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
-    "price_range": null,
-    "url": "/kochi/roastown-edappally/info"
-  },
-  {
     "name": "Yaacht Kitchen",
-    "locality": "kochi",
+    "locality": "MG Road",
     "rating": "4.0",
     "review_count": "116",
     "cuisine": "Kerala, South Indian, Continental",
@@ -50,18 +30,78 @@
     "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
   },
   {
-    "name": "Space 9",
-    "locality": "kochi",
-    "rating": "4.3",
-    "review_count": "51",
-    "cuisine": "South Indian, North Indian, Chinese",
-    "address": "DG/2, Poonithura, Ernakulam, Marad, Kochi",
+    "name": "Kyra",
+    "locality": "MG Road",
+    "rating": "4.5",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
     "price_range": null,
-    "url": "/kochi/space-9-marad/info"
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "MG Road",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "MG Road",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Hotel Seagull",
+    "locality": "MG Road",
+    "rating": "4.0",
+    "review_count": "652",
+    "cuisine": "Kerala, Seafood, Chinese",
+    "address": "2-18, Calvathy Road, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/hotel-seagull-fort-kochi/info"
+  },
+  {
+    "name": "Kashi Art Cafe",
+    "locality": "MG Road",
+    "rating": "4.5",
+    "review_count": "1,529",
+    "cuisine": "Cafe, Coffee, Fast Food",
+    "address": "Burgher Street, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/kashi-art-cafe-fort-kochi/info"
+  },
+  {
+    "name": "Pandhal Café & Deli - David Hall",
+    "locality": "MG Road",
+    "rating": "4.3",
+    "review_count": "745",
+    "cuisine": "Cafe, Coffee, Italian",
+    "address": "1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/pandhal-café-deli-david-hall-fort-kochi/info"
+  },
+  {
+    "name": "Roastown",
+    "locality": "Edappally",
+    "rating": "4.5",
+    "review_count": "1,089",
+    "cuisine": "Asian, Italian, Burger",
+    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/roastown-edappally/info"
   },
   {
     "name": "Cheenavala",
-    "locality": "kochi",
+    "locality": "Edappally",
     "rating": "4.1",
     "review_count": "2,152",
     "cuisine": "South Indian, Kerala, Seafood",
@@ -70,8 +110,18 @@
     "url": "/kochi/cheenavala-edappally/info"
   },
   {
+    "name": "Yaacht Kitchen",
+    "locality": "Edappally",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
+    "price_range": null,
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
+  },
+  {
     "name": "Kubaba",
-    "locality": "kochi",
+    "locality": "Edappally",
     "rating": "4.2",
     "review_count": "9,398",
     "cuisine": "Biryani, Mandi, Arabic",
@@ -81,7 +131,7 @@
   },
   {
     "name": "Kyra",
-    "locality": "kochi",
+    "locality": "Edappally",
     "rating": "4.5",
     "review_count": "69",
     "cuisine": "Beverages, Mughlai, Desserts",
@@ -90,273 +140,763 @@
     "url": "/kochi/kyra-vennala/info"
   },
   {
-    "name": "Paragon Restaurant",
-    "locality": "Kozhikode",
-    "rating": "4.4",
-    "review_count": "13.1K",
-    "cuisine": "North Indian, Biryani, Seafood",
-    "address": "B 62/1442, Grand Building, North Circle, Kannur Road, Vellayil, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/paragon-restaurant-vellayil/order"
-  },
-  {
-    "name": "Pure South",
-    "locality": "Kozhikode",
-    "rating": "4.0",
-    "review_count": "174",
-    "cuisine": "South Indian",
-    "address": "61/6384, Hospitality Private Limited, Khadeeja Building, GH Road, Palayam, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/pure-south-2-palayam/order"
-  },
-  {
-    "name": "equiTea.",
-    "locality": "Kozhikode",
-    "rating": "4.0",
-    "review_count": "5,824",
-    "cuisine": "Street Food, Tea, Momos",
-    "address": "Nadakkavu, Bilathikkulam, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/equitea-bilathikkulam/order"
-  },
-  {
-    "name": "Hotel Sagar-Old Sagar",
-    "locality": "Kozhikode",
-    "rating": "3.7",
-    "review_count": "20.5K",
-    "cuisine": "Biryani, South Indian, Kerala",
-    "address": "5/3306 & 5/3307, Mavoor Road, Kuttichira, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/hotel-sagar-old-sagar-kuttichira/order"
-  },
-  {
-    "name": "Salkara Restaurant by Paragon",
-    "locality": "Kozhikode",
-    "rating": "4.3",
-    "review_count": "3,687",
-    "cuisine": "Kerala, Arabic, Chinese",
-    "address": "3/101 C9, 65/373 West Nadakkavu, Kannur Road, Vellayil, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/salkara-restaurant-by-paragon-vellayil/order"
-  },
-  {
-    "name": "TopForm Restaurant",
-    "locality": "Kozhikode",
-    "rating": "4.2",
-    "review_count": "22K",
-    "cuisine": "Biryani, Kerala, South Indian",
-    "address": "17/63, Golden Plaza Building, Mavoor Road, Head Post Office, Kozhikode South Circle, Kuttichira, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/topform-restaurant-kuttichira/order"
-  },
-  {
-    "name": "Hotel Ambika",
-    "locality": "Kozhikode",
-    "rating": "4.4",
-    "review_count": "7,632",
-    "cuisine": "Kerala, South Indian, North Indian",
-    "address": "64/40 A, North Cirlce, East Nadakkavu, Eranjipalam, Bilathikkulam, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/hotel-ambika-1-bilathikkulam/order"
-  },
-  {
-    "name": "Subway",
-    "locality": "Kozhikode",
-    "rating": "3.9",
-    "review_count": "148",
-    "cuisine": "Healthy Food, Sandwich, Fast Food",
-    "address": "61/10519, Shop 101, Ground Floor, The Focus Mall, Rajaji Road, Palayam, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/subway-3-palayam/order"
-  },
-  {
-    "name": "Kanjipura Restaurant",
-    "locality": "Kozhikode",
-    "rating": "3.8",
-    "review_count": "4,014",
-    "cuisine": "North Indian, South Indian, Kerala",
-    "address": "29/2582, 2583, Kanjippura, Thondayad Bypass Road, Ummalathoor, Kozhikode",
-    "price_range": null,
-    "url": "/kozhikode/kanjipura-restaurant-ummalathoor/order"
-  },
-  {
-    "name": "Diamond Dine Family Restaurant",
-    "locality": "kasaragod",
-    "rating": "4.1",
-    "review_count": "438",
-    "cuisine": "South Indian, North Indian",
-    "address": "6/980 - 1, 2, 8, NH Road, Kasaragod Locality, Kasaragod",
-    "price_range": null,
-    "url": "/kasaragod/diamond-dine-family-restaurant-kasaragod-locality/order"
-  },
-  {
-    "name": "Golden Bakery",
-    "locality": "kasaragod",
-    "rating": "4.2",
-    "review_count": "175",
-    "cuisine": "North Indian, Arabic, Chinese",
-    "address": "Door 22/147C/C1/C2/C3, Theruvath, Thalangara, Kasaragod Locality, Kasaragod",
-    "price_range": null,
-    "url": "/kasaragod/golden-bakery-2-kasaragod-locality/order"
-  },
-  {
-    "name": "Dar Al Madhooth",
-    "locality": "kasaragod",
-    "rating": "4.0",
-    "review_count": "21",
-    "cuisine": "Mandi, Biryani, Juices",
-    "address": "Door KMC 8-203A, Room 1, Zyqo Food Court, Block F, Anangoor, Kasaragod Locality, Kasaragod",
-    "price_range": null,
-    "url": "/kasaragod/dar-al-madhooth-kasaragod-locality/order"
-  },
-  {
-    "name": "AFC",
-    "locality": "kasaragod",
-    "rating": "3.6",
-    "review_count": "383",
-    "cuisine": "Burger, Wraps, Fast Food",
-    "address": "Kasaragod-Naimarmoola-Perumbala, Kadavu Road, Kasaragod Locality, Kasaragod",
-    "price_range": null,
-    "url": "/kasaragod/afc-kasaragod-locality/order"
-  },
-  {
-    "name": "Parche",
-    "locality": "kasaragod",
+    "name": "Paragon",
+    "locality": "Edappally",
     "rating": "4.5",
-    "review_count": "126",
-    "cuisine": "Momos, Chinese, Cafe",
-    "address": "OPP KRISHNA HARDWARE M G ROAD KASARAGOD, Kasaragod Circle 'F' Block, Kasaragod, Kerala - 671121, kasaragod, Kerala",
+    "review_count": "47.7K",
+    "cuisine": "South Indian, Continental, North Indian",
+    "address": "34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",
     "price_range": null,
-    "url": "/kasaragod/parche-kasaragod-locality/order"
+    "url": "/kochi/paragon-edappally/info"
   },
   {
-    "name": "Chicking",
-    "locality": "kasaragod",
-    "rating": "3.7",
-    "review_count": "709",
-    "cuisine": "Fast Food, Biryani, South Indian",
-    "address": "20/71, B 16, P K Complex, Nymar Moola, Kasaragod Locality, Kasaragod",
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Edappally",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
     "price_range": null,
-    "url": "/kasaragod/chicking-kasaragod-locality/order"
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
   },
   {
-    "name": "Sagar Hotel",
-    "locality": "kasaragod",
-    "rating": "3.0",
-    "review_count": "61",
-    "cuisine": "Biryani, Shake, Sandwich",
-    "address": "Door KMC 12/225 D, D1, D2, D3 Crystal Arcade, Circle F, MG Road, Kasaragod Locality, Kasaragod",
-    "price_range": null,
-    "url": "/kasaragod/sagar-hotel-kasaragod-locality/order"
-  },
-  {
-    "name": "The Muse Cafe",
-    "locality": "kasaragod",
+    "name": "Kochi Kitchen - Kochi Marriott Hotel",
+    "locality": "Edappally",
     "rating": "4.3",
-    "review_count": "62",
-    "cuisine": "Sandwich, Juices, Shake",
-    "address": "18-285/A12, F Block, MG Road, Kasaragod Locality, Kasaragod",
+    "review_count": "2,751",
+    "cuisine": "South Indian, Asian, North Indian",
+    "address": "34/1111, Lulu International Shopping Mall, NH 47, Edappally, Kochi",
     "price_range": null,
-    "url": "/kasaragod/the-muse-cafe-kasaragod-locality/order"
+    "url": "/kochi/kochi-kitchen-kochi-marriott-hotel-edappally/info"
   },
   {
-    "name": "Ocean Sea Food Restaurant",
-    "locality": "kasaragod",
-    "rating": "3.9",
-    "review_count": "59",
-    "cuisine": "Seafood, South Indian, North Indian",
-    "address": "Door KMC 6/1387, F Block, Karanthakkad, Ashwini Nagar, Kasaragod Locality, Kasaragod",
+    "name": "Cold Stone Creamery",
+    "locality": "Edappally",
+    "rating": "4.2",
+    "review_count": "1,693",
+    "cuisine": "Ice Cream",
+    "address": "Ground Floor, Lulu Hypermarket, Edappally, Kochi",
     "price_range": null,
-    "url": "/kasaragod/ocean-sea-food-restaurant-kasaragod-locality/order"
+    "url": "/kochi/cold-stone-creamery-edappally/info"
   },
   {
-    "name": "McDonald's",
-    "locality": "thiruvanantapuram",
-    "rating": "4.0",
-    "review_count": "7,714",
-    "cuisine": "Burger, Fast Food, Cafe",
-    "address": "TC 15/4558/1/3, Ground And First Floor, Johns Towers, Kesavadasapuram, Trivandrum",
+    "name": "Roastown",
+    "locality": "Kakkanad",
+    "rating": "4.5",
+    "review_count": "1,089",
+    "cuisine": "Asian, Italian, Burger",
+    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
     "price_range": null,
-    "url": "/trivandrum/mcdonalds-kesavadasapuram/order"
+    "url": "/kochi/roastown-edappally/info"
   },
   {
-    "name": "Mothers Veg Plaza",
-    "locality": "thiruvanantapuram",
-    "rating": "4.3",
-    "review_count": "49.9K",
-    "cuisine": "South Indian, Kerala, North Indian",
-    "address": "Door 14/1981, Bakery Junction, Thiruvananthapuram Circle, Palayam, Trivandrum",
-    "price_range": null,
-    "url": "/trivandrum/mothers-veg-plaza-palayam/order"
-  },
-  {
-    "name": "Hotel Chinnus",
-    "locality": "thiruvanantapuram",
+    "name": "Cheenavala",
+    "locality": "Kakkanad",
     "rating": "4.1",
-    "review_count": "24.2K",
-    "cuisine": "Biryani, Chinese, Kerala",
-    "address": "T C 3/1647-1, 2, 3, Pattom, Kesavadasapuram, Trivandrum",
+    "review_count": "2,152",
+    "cuisine": "South Indian, Kerala, Seafood",
+    "address": "National Highway Byepass, Ernakulam, Edappally, Kochi",
     "price_range": null,
-    "url": "/trivandrum/hotel-chinnus-kesavadasapuram/order"
+    "url": "/kochi/cheenavala-edappally/info"
   },
   {
-    "name": "North Bites",
-    "locality": "thiruvanantapuram",
-    "rating": "3.9",
-    "review_count": "3,742",
-    "cuisine": "North Indian, Beverages, Street Food",
-    "address": "TC 14/3680, Ground Floor, Pattom, Vattiyoorkavu Circle, Thiruvananthapuram, Kesavadasapuram, Trivandrum",
+    "name": "Yaacht Kitchen",
+    "locality": "Kakkanad",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
     "price_range": null,
-    "url": "/trivandrum/north-bites-1-kesavadasapuram/order"
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
   },
   {
-    "name": "Hotel Aruna",
-    "locality": "thiruvanantapuram",
+    "name": "Kubaba",
+    "locality": "Kakkanad",
+    "rating": "4.2",
+    "review_count": "9,398",
+    "cuisine": "Biryani, Mandi, Arabic",
+    "address": "1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/kubaba-edappally/info"
+  },
+  {
+    "name": "Kyra",
+    "locality": "Kakkanad",
+    "rating": "4.5",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Paragon",
+    "locality": "Kakkanad",
+    "rating": "4.5",
+    "review_count": "47.7K",
+    "cuisine": "South Indian, Continental, North Indian",
+    "address": "34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/paragon-edappally/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Kakkanad",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Kochi Kitchen - Kochi Marriott Hotel",
+    "locality": "Kakkanad",
     "rating": "4.3",
-    "review_count": "31.5K",
+    "review_count": "2,751",
+    "cuisine": "South Indian, Asian, North Indian",
+    "address": "34/1111, Lulu International Shopping Mall, NH 47, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/kochi-kitchen-kochi-marriott-hotel-edappally/info"
+  },
+  {
+    "name": "Cold Stone Creamery",
+    "locality": "Kakkanad",
+    "rating": "4.2",
+    "review_count": "1,693",
+    "cuisine": "Ice Cream",
+    "address": "Ground Floor, Lulu Hypermarket, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/cold-stone-creamery-edappally/info"
+  },
+  {
+    "name": "Elevate Resto - Travancore Court",
+    "locality": "Panampilly Nagar",
+    "rating": "4.3",
+    "review_count": "50",
+    "cuisine": "North Indian, South Indian, Chinese",
+    "address": "Travancore Court, Warriam Road, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/elevate-resto-travancore-court-pallimukku/info"
+  },
+  {
+    "name": "Latest Recipe - Le Méridien Kochi",
+    "locality": "Panampilly Nagar",
+    "rating": "4.4",
+    "review_count": "2,550",
+    "cuisine": "North Indian, Continental, Chinese",
+    "address": "Le Méridien, Nettoor, Marad, Kochi",
+    "price_range": null,
+    "url": "/kochi/latest-recipe-le-méridien-kochi-marad/info"
+  },
+  {
+    "name": "Yaacht Kitchen",
+    "locality": "Panampilly Nagar",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
+    "price_range": null,
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
+  },
+  {
+    "name": "Space 9",
+    "locality": "Panampilly Nagar",
+    "rating": "4.3",
+    "review_count": "51",
     "cuisine": "South Indian, North Indian, Chinese",
-    "address": "TC 14/2345, MG Road, Palayam, Trivandrum",
+    "address": "DG/2, Poonithura, Ernakulam, Marad, Kochi",
     "price_range": null,
-    "url": "/trivandrum/hotel-aruna-palayam/order"
+    "url": "/kochi/space-9-marad/info"
   },
   {
-    "name": "Jai Sitha Sweets",
-    "locality": "thiruvanantapuram",
+    "name": "Kyra",
+    "locality": "Panampilly Nagar",
     "rating": "4.5",
-    "review_count": "8,451",
-    "cuisine": "Mithai, Street Food, Desserts",
-    "address": "TC 23/738/1, Single Street, Valiyasala, Thycaud, Trivandrum",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
     "price_range": null,
-    "url": "/trivandrum/jai-sitha-sweets-thycaud/order"
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "Panampilly Nagar",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Panampilly Nagar",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Meen By Chef Pillai ",
+    "locality": "Panampilly Nagar",
+    "rating": "4.3",
+    "review_count": "691",
+    "cuisine": "Kerala, Seafood, Desserts",
+    "address": "3rd Floor, Forum Mall, Nettoor, Marad, Kochi",
+    "price_range": null,
+    "url": "/kochi/meen-by-chef-pillai-marad/info"
+  },
+  {
+    "name": "Restaurant Chef Pillai",
+    "locality": "Panampilly Nagar",
+    "rating": "4.4",
+    "review_count": "1,589",
+    "cuisine": "South Indian, Kerala",
+    "address": "16/263, NH 47, Bypass Kundannur Junction, Marad, Kochi",
+    "price_range": null,
+    "url": "/kochi/restaurant-chef-pillai-1-marad/info"
+  },
+  {
+    "name": "Roastown",
+    "locality": "Kaloor",
+    "rating": "4.5",
+    "review_count": "1,089",
+    "cuisine": "Asian, Italian, Burger",
+    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/roastown-edappally/info"
+  },
+  {
+    "name": "Yaacht Kitchen",
+    "locality": "Kaloor",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
+    "price_range": null,
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
+  },
+  {
+    "name": "Elevate Resto - Travancore Court",
+    "locality": "Kaloor",
+    "rating": "4.3",
+    "review_count": "50",
+    "cuisine": "North Indian, South Indian, Chinese",
+    "address": "Travancore Court, Warriam Road, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/elevate-resto-travancore-court-pallimukku/info"
+  },
+  {
+    "name": "Cheenavala",
+    "locality": "Kaloor",
+    "rating": "4.1",
+    "review_count": "2,152",
+    "cuisine": "South Indian, Kerala, Seafood",
+    "address": "National Highway Byepass, Ernakulam, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/cheenavala-edappally/info"
+  },
+  {
+    "name": "Kubaba",
+    "locality": "Kaloor",
+    "rating": "4.2",
+    "review_count": "9,398",
+    "cuisine": "Biryani, Mandi, Arabic",
+    "address": "1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/kubaba-edappally/info"
+  },
+  {
+    "name": "Kyra",
+    "locality": "Kaloor",
+    "rating": "4.5",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Paragon",
+    "locality": "Kaloor",
+    "rating": "4.5",
+    "review_count": "47.7K",
+    "cuisine": "South Indian, Continental, North Indian",
+    "address": "34/744-A, Thoppil Building, VP Marakar Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/paragon-edappally/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "Kaloor",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Kaloor",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Cassava - Kochi Marriott Hotel",
+    "locality": "Palarivattom",
+    "rating": "4.9",
+    "review_count": "344",
+    "cuisine": "Kerala, South Indian, Desserts",
+    "address": "34/1111, Lulu International Shopping Mall, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/cassava-kochi-marriott-hotel-edappally/info"
+  },
+  {
+    "name": "Nasi And Mee",
+    "locality": "Palarivattom",
+    "rating": "4.6",
+    "review_count": "5,456",
+    "cuisine": "Asian, Japanese, Singaporean",
+    "address": "66/6539, Ernakulam Circle, C A K Sheshadri Road, Near MG Road, Kochi",
+    "price_range": null,
+    "url": "/kochi/nasi-and-mee-mg-road/info"
+  },
+  {
+    "name": "Chopstix Signature",
+    "locality": "Palarivattom",
+    "rating": "4.6",
+    "review_count": "2,528",
+    "cuisine": "Asian, Chinese, Japanese",
+    "address": "7/528-E4, Seaport Airport Road, Kakkanad, Kochi",
+    "price_range": null,
+    "url": "/kochi/chopstix-signature-kakkanad/info"
+  },
+  {
+    "name": "Cake Hut",
+    "locality": "Palarivattom",
+    "rating": "4.6",
+    "review_count": "1,246",
+    "cuisine": "Bakery, Desserts",
+    "address": "Kathrikadavu, Kaloor-Kadavanthara Road, Kaloor, Kochi",
+    "price_range": null,
+    "url": "/kochi/cake-hut-kaloor/info"
+  },
+  {
+    "name": "Natural Ice Cream",
+    "locality": "Palarivattom",
+    "rating": "4.7",
+    "review_count": "4,392",
+    "cuisine": "Ice Cream",
+    "address": "Laxman Chambers, South Over Bridge, Near Valanjambalam Devi Temple, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/natural-ice-cream-pallimukku/info"
+  },
+  {
+    "name": "Roastown",
+    "locality": "Palarivattom",
+    "rating": "4.5",
+    "review_count": "1,089",
+    "cuisine": "Asian, Italian, Burger",
+    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/roastown-edappally/info"
+  },
+  {
+    "name": "French Toast",
+    "locality": "Palarivattom",
+    "rating": "4.5",
+    "review_count": "2,364",
+    "cuisine": "Sandwich, Beverages, Italian",
+    "address": "8th Cross, Street B, Ambikapuram Road, Panampilly Nagar, Kochi",
+    "price_range": null,
+    "url": "/kochi/french-toast-panampilly-nagar/info"
+  },
+  {
+    "name": "Hedge Cafe",
+    "locality": "Palarivattom",
+    "rating": "4.5",
+    "review_count": "674",
+    "cuisine": "Continental, Italian, Burger",
+    "address": "66/3190B, 1st Floor, Bank House, Chittoor Road, Kochi",
+    "price_range": null,
+    "url": "/kochi/hedge-cafe-chittor-road/info"
+  },
+  {
+    "name": "Starbucks Coffee",
+    "locality": "Palarivattom",
+    "rating": "4.4",
+    "review_count": "2,611",
+    "cuisine": "Cafe, Coffee, Desserts",
+    "address": "Cloud 9, Plot No 244, 9th Cross Road, Panampilly Nagar, Kochi",
+    "price_range": null,
+    "url": "/kochi/starbucks-coffee-panampilly-nagar/info"
+  },
+  {
+    "name": "Fort House Restaurant",
+    "locality": "Fort Kochi",
+    "rating": "4.5",
+    "review_count": "601",
+    "cuisine": "Seafood, Kerala, Fast Food",
+    "address": "2/6-A, Calvathy Road, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/fort-house-restaurant-fort-kochi/info"
+  },
+  {
+    "name": "Elevate Resto - Travancore Court",
+    "locality": "Fort Kochi",
+    "rating": "4.3",
+    "review_count": "50",
+    "cuisine": "North Indian, South Indian, Chinese",
+    "address": "Travancore Court, Warriam Road, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/elevate-resto-travancore-court-pallimukku/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "Fort Kochi",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Hotel Seagull",
+    "locality": "Fort Kochi",
+    "rating": "4.0",
+    "review_count": "652",
+    "cuisine": "Kerala, Seafood, Chinese",
+    "address": "2-18, Calvathy Road, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/hotel-seagull-fort-kochi/info"
+  },
+  {
+    "name": "Kashi Art Cafe",
+    "locality": "Fort Kochi",
+    "rating": "4.5",
+    "review_count": "1,529",
+    "cuisine": "Cafe, Coffee, Fast Food",
+    "address": "Burgher Street, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/kashi-art-cafe-fort-kochi/info"
+  },
+  {
+    "name": "Pandhal Café & Deli - David Hall",
+    "locality": "Fort Kochi",
+    "rating": "4.3",
+    "review_count": "745",
+    "cuisine": "Cafe, Coffee, Italian",
+    "address": "1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/pandhal-café-deli-david-hall-fort-kochi/info"
+  },
+  {
+    "name": "Grand Pavillion By Grand Hotel",
+    "locality": "Fort Kochi",
+    "rating": "4.5",
+    "review_count": "2,747",
+    "cuisine": "North Indian, Kerala, Chinese",
+    "address": "Opposite Malabar Gold, Woodlands Junction, MG Road, Kochi",
+    "price_range": null,
+    "url": "/kochi/grand-pavillion-by-grand-hotel-mg-road/info"
   },
   {
     "name": "KFC",
-    "locality": "thiruvanantapuram",
-    "rating": "4.2",
-    "review_count": "11.4K",
+    "locality": "Fort Kochi",
+    "rating": "3.7",
+    "review_count": "11.7K",
     "cuisine": "Burger, Fast Food, Rolls",
-    "address": "Ground Floor, Survey 3572/3, Near Brand Factory, Keston Road, Kowdiar, Thiruvananthapuram Circle, Nandavanam, Trivandrum",
+    "address": "Centre Square Mall, MG Road, Kochi",
     "price_range": null,
-    "url": "/trivandrum/kfc-nandavanam/order"
+    "url": "/kochi/kfc-mg-road/info"
   },
   {
-    "name": "Zam Zam YMR",
-    "locality": "thiruvanantapuram",
+    "name": "Brown's Restaurant",
+    "locality": "Fort Kochi",
+    "rating": "3.6",
+    "review_count": "8,052",
+    "cuisine": "North Indian, Chinese, South Indian",
+    "address": "Victoria Towers, Banerji Road, Opposite Seematti, Kacheripady, Kochi",
+    "price_range": null,
+    "url": "/kochi/browns-restaurant-kacherippady/info"
+  },
+  {
+    "name": "Cafe 17",
+    "locality": "Kadavanthra",
+    "rating": "4.5",
+    "review_count": "7,726",
+    "cuisine": "Cafe, Sandwich, Burger",
+    "address": "CT Tower, R Madhavan Nair Road, Ravipuram, Kochi",
+    "price_range": null,
+    "url": "/kochi/cafe-17-ravipuram/info"
+  },
+  {
+    "name": "Cocoa Tree",
+    "locality": "Kadavanthra",
+    "rating": "4.5",
+    "review_count": "2,340",
+    "cuisine": "Continental, European, Pizza",
+    "address": "Building 56/2565-B, 2565-C, 1st floor, Manna Building, SBT Avenue, MIG Housing Society, Near ICICI Bank, Panampilly Nagar, Kochi",
+    "price_range": null,
+    "url": "/kochi/cocoa-tree-panampilly-nagar/info"
+  },
+  {
+    "name": "Nasi And Mee",
+    "locality": "Kadavanthra",
+    "rating": "4.6",
+    "review_count": "5,456",
+    "cuisine": "Asian, Japanese, Singaporean",
+    "address": "66/6539, Ernakulam Circle, C A K Sheshadri Road, Near MG Road, Kochi",
+    "price_range": null,
+    "url": "/kochi/nasi-and-mee-mg-road/info"
+  },
+  {
+    "name": "Cake Hut",
+    "locality": "Kadavanthra",
+    "rating": "4.6",
+    "review_count": "1,246",
+    "cuisine": "Bakery, Desserts",
+    "address": "Kathrikadavu, Kaloor-Kadavanthara Road, Kaloor, Kochi",
+    "price_range": null,
+    "url": "/kochi/cake-hut-kaloor/info"
+  },
+  {
+    "name": "Natural Ice Cream",
+    "locality": "Kadavanthra",
+    "rating": "4.7",
+    "review_count": "4,392",
+    "cuisine": "Ice Cream",
+    "address": "Laxman Chambers, South Over Bridge, Near Valanjambalam Devi Temple, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/natural-ice-cream-pallimukku/info"
+  },
+  {
+    "name": "Restaurant Chef Pillai",
+    "locality": "Kadavanthra",
+    "rating": "4.4",
+    "review_count": "1,589",
+    "cuisine": "South Indian, Kerala",
+    "address": "16/263, NH 47, Bypass Kundannur Junction, Marad, Kochi",
+    "price_range": null,
+    "url": "/kochi/restaurant-chef-pillai-1-marad/info"
+  },
+  {
+    "name": "French Toast",
+    "locality": "Kadavanthra",
+    "rating": "4.5",
+    "review_count": "2,364",
+    "cuisine": "Sandwich, Beverages, Italian",
+    "address": "8th Cross, Street B, Ambikapuram Road, Panampilly Nagar, Kochi",
+    "price_range": null,
+    "url": "/kochi/french-toast-panampilly-nagar/info"
+  },
+  {
+    "name": "Thai Soul - Grand Hyatt Kochi Bolgatty",
+    "locality": "Kadavanthra",
+    "rating": "4.7",
+    "review_count": "344",
+    "cuisine": "Thai, Asian, Desserts",
+    "address": "Ground Level, Grand Hyatt Kochi, Mulavukad, Bolgatty, Vypin, Kochi",
+    "price_range": null,
+    "url": "/kochi/thai-soul-grand-hyatt-kochi-bolgatty-vypin/info"
+  },
+  {
+    "name": "Hedge Cafe",
+    "locality": "Kadavanthra",
+    "rating": "4.5",
+    "review_count": "674",
+    "cuisine": "Continental, Italian, Burger",
+    "address": "66/3190B, 1st Floor, Bank House, Chittoor Road, Kochi",
+    "price_range": null,
+    "url": "/kochi/hedge-cafe-chittor-road/info"
+  },
+  {
+    "name": "Elevate Resto - Travancore Court",
+    "locality": "Marine Drive",
     "rating": "4.3",
-    "review_count": "52.7K",
-    "cuisine": "Arabic, Biryani, Chinese",
-    "address": "TC 25/1624-2, YMR Junction, Nandancode, Kowdiar, Thiruvananthapuram Circle, Ambalamukku, Trivandrum",
+    "review_count": "50",
+    "cuisine": "North Indian, South Indian, Chinese",
+    "address": "Travancore Court, Warriam Road, Pallimukku, Kochi",
     "price_range": null,
-    "url": "/trivandrum/zam-zam-ymr-ambalamukku/order"
+    "url": "/kochi/elevate-resto-travancore-court-pallimukku/info"
   },
   {
-    "name": "Imperial Kitchen",
-    "locality": "thiruvanantapuram",
-    "rating": "4.0",
-    "review_count": "11.2K",
-    "cuisine": "Biryani, Chinese, South Indian",
-    "address": "TC 17/2624-3, Vattiyoorkavu Circle, Pattom, Near Cosmopolitan Hospital, Kesavadasapuram, Trivandrum",
+    "name": "Fort House Restaurant",
+    "locality": "Marine Drive",
+    "rating": "4.5",
+    "review_count": "601",
+    "cuisine": "Seafood, Kerala, Fast Food",
+    "address": "2/6-A, Calvathy Road, Fort Kochi, Kochi",
     "price_range": null,
-    "url": "/trivandrum/imperial-kitchen-kesavadasapuram/order"
+    "url": "/kochi/fort-house-restaurant-fort-kochi/info"
+  },
+  {
+    "name": "Yaacht Kitchen",
+    "locality": "Marine Drive",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
+    "price_range": null,
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
+  },
+  {
+    "name": "Kyra",
+    "locality": "Marine Drive",
+    "rating": "4.5",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "Marine Drive",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Marine Drive",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Hotel Seagull",
+    "locality": "Marine Drive",
+    "rating": "4.0",
+    "review_count": "652",
+    "cuisine": "Kerala, Seafood, Chinese",
+    "address": "2-18, Calvathy Road, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/hotel-seagull-fort-kochi/info"
+  },
+  {
+    "name": "Kashi Art Cafe",
+    "locality": "Marine Drive",
+    "rating": "4.5",
+    "review_count": "1,529",
+    "cuisine": "Cafe, Coffee, Fast Food",
+    "address": "Burgher Street, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/kashi-art-cafe-fort-kochi/info"
+  },
+  {
+    "name": "Pandhal Café & Deli - David Hall",
+    "locality": "Marine Drive",
+    "rating": "4.3",
+    "review_count": "745",
+    "cuisine": "Cafe, Coffee, Italian",
+    "address": "1/264, Napier Street, Opposite Parade Ground, Fort Kochi, Kochi",
+    "price_range": null,
+    "url": "/kochi/pandhal-café-deli-david-hall-fort-kochi/info"
+  },
+  {
+    "name": "Elevate Resto - Travancore Court",
+    "locality": "Ernakulam City",
+    "rating": "4.3",
+    "review_count": "50",
+    "cuisine": "North Indian, South Indian, Chinese",
+    "address": "Travancore Court, Warriam Road, Pallimukku, Kochi",
+    "price_range": null,
+    "url": "/kochi/elevate-resto-travancore-court-pallimukku/info"
+  },
+  {
+    "name": "Yaacht Kitchen",
+    "locality": "Ernakulam City",
+    "rating": "4.0",
+    "review_count": "116",
+    "cuisine": "Kerala, South Indian, Continental",
+    "address": "Thrikkakara, Chakkaraparambu Road, Ernakulam City, Kochi",
+    "price_range": null,
+    "url": "/kochi/yaacht-kitchen-ernakulam-city/info"
+  },
+  {
+    "name": "Roastown",
+    "locality": "Ernakulam City",
+    "rating": "4.5",
+    "review_count": "1,089",
+    "cuisine": "Asian, Italian, Burger",
+    "address": "37/3469-A1, A2, A3, Old Cheranallur Road, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/roastown-edappally/info"
+  },
+  {
+    "name": "Cheenavala",
+    "locality": "Ernakulam City",
+    "rating": "4.1",
+    "review_count": "2,152",
+    "cuisine": "South Indian, Kerala, Seafood",
+    "address": "National Highway Byepass, Ernakulam, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/cheenavala-edappally/info"
+  },
+  {
+    "name": "Kubaba",
+    "locality": "Ernakulam City",
+    "rating": "4.2",
+    "review_count": "9,398",
+    "cuisine": "Biryani, Mandi, Arabic",
+    "address": "1/1294 Fortum Spaces, Next To Rak Apartment, Marottichuvadu, P.O, Thrikkakara Circle, Ernakulam, Edappally, Kochi",
+    "price_range": null,
+    "url": "/kochi/kubaba-edappally/info"
+  },
+  {
+    "name": "Kyra",
+    "locality": "Ernakulam City",
+    "rating": "4.5",
+    "review_count": "69",
+    "cuisine": "Beverages, Mughlai, Desserts",
+    "address": "33/1739, Holiday Inn, A Junction, National Highway Bypass, Chakkaraparambu, Ernakulam, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/kyra-vennala/info"
+  },
+  {
+    "name": "Malabar Cafe - Grand Hyatt Kochi Bolgatty",
+    "locality": "Ernakulam City",
+    "rating": "3.9",
+    "review_count": "900",
+    "cuisine": "Kerala, North Indian, Desserts",
+    "address": "Grand Hyatt Kochi, Bolgatty, Ernakulam, Marine Drive, Kochi",
+    "price_range": null,
+    "url": "/kochi/malabar-cafe-grand-hyatt-kochi-bolgatty-marine-drive/info"
+  },
+  {
+    "name": "Deli KC - Holiday Inn Cochin",
+    "locality": "Ernakulam City",
+    "rating": "4.2",
+    "review_count": "989",
+    "cuisine": "Cafe, Continental, Fast Food",
+    "address": "Holiday Inn, 33/1739 A, NH Bypass Road, Vennala, Kochi",
+    "price_range": null,
+    "url": "/kochi/deli-kc-holiday-inn-cochin-vennala/info"
+  },
+  {
+    "name": "Meen By Chef Pillai ",
+    "locality": "Ernakulam City",
+    "rating": "4.3",
+    "review_count": "691",
+    "cuisine": "Kerala, Seafood, Desserts",
+    "address": "3rd Floor, Forum Mall, Nettoor, Marad, Kochi",
+    "price_range": null,
+    "url": "/kochi/meen-by-chef-pillai-marad/info"
   }
 ]
