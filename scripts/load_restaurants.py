@@ -6,3 +6,5 @@ conn = sqlite3.connect("data/clean/restaurants.db")
 df.to_sql("restaurants", conn, if_exists="replace", index=False)
 conn.close()
 print(f"Loaded {len(df)} rows into data/clean/restaurants.db")
+
+
